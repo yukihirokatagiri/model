@@ -1,0 +1,1355 @@
+Folder PATH listing
+Volume serial number is 801E-2B43
+D:.
+³   README.md
+³   result.txt
+³   test.py
+³   train.py
+³   tree.txt
+³   
+ÃÄÄÄimage
+³   ³   create_random_image.py
+³   ³   random_image.py
+³   ³   
+³   ÃÄÄÄtest
+³   ³       angular_leaf_spot_test.0.jpg
+³   ³       angular_leaf_spot_test.1.jpg
+³   ³       angular_leaf_spot_test.10.jpg
+³   ³       angular_leaf_spot_test.11.jpg
+³   ³       angular_leaf_spot_test.12.jpg
+³   ³       angular_leaf_spot_test.13.jpg
+³   ³       angular_leaf_spot_test.14.jpg
+³   ³       angular_leaf_spot_test.15.jpg
+³   ³       angular_leaf_spot_test.16.jpg
+³   ³       angular_leaf_spot_test.17.jpg
+³   ³       angular_leaf_spot_test.18.jpg
+³   ³       angular_leaf_spot_test.19.jpg
+³   ³       angular_leaf_spot_test.2.jpg
+³   ³       angular_leaf_spot_test.20.jpg
+³   ³       angular_leaf_spot_test.21.jpg
+³   ³       angular_leaf_spot_test.22.jpg
+³   ³       angular_leaf_spot_test.23.jpg
+³   ³       angular_leaf_spot_test.24.jpg
+³   ³       angular_leaf_spot_test.25.jpg
+³   ³       angular_leaf_spot_test.26.jpg
+³   ³       angular_leaf_spot_test.27.jpg
+³   ³       angular_leaf_spot_test.28.jpg
+³   ³       angular_leaf_spot_test.29.jpg
+³   ³       angular_leaf_spot_test.3.jpg
+³   ³       angular_leaf_spot_test.30.jpg
+³   ³       angular_leaf_spot_test.31.jpg
+³   ³       angular_leaf_spot_test.32.jpg
+³   ³       angular_leaf_spot_test.33.jpg
+³   ³       angular_leaf_spot_test.34.jpg
+³   ³       angular_leaf_spot_test.35.jpg
+³   ³       angular_leaf_spot_test.36.jpg
+³   ³       angular_leaf_spot_test.37.jpg
+³   ³       angular_leaf_spot_test.38.jpg
+³   ³       angular_leaf_spot_test.39.jpg
+³   ³       angular_leaf_spot_test.4.jpg
+³   ³       angular_leaf_spot_test.40.jpg
+³   ³       angular_leaf_spot_test.41.jpg
+³   ³       angular_leaf_spot_test.42.jpg
+³   ³       angular_leaf_spot_test.5.jpg
+³   ³       angular_leaf_spot_test.6.jpg
+³   ³       angular_leaf_spot_test.7.jpg
+³   ³       angular_leaf_spot_test.8.jpg
+³   ³       angular_leaf_spot_test.9.jpg
+³   ³       bean_rust_test.0.jpg
+³   ³       bean_rust_test.1.jpg
+³   ³       bean_rust_test.10.jpg
+³   ³       bean_rust_test.11.jpg
+³   ³       bean_rust_test.12.jpg
+³   ³       bean_rust_test.13.jpg
+³   ³       bean_rust_test.14.jpg
+³   ³       bean_rust_test.15.jpg
+³   ³       bean_rust_test.16.jpg
+³   ³       bean_rust_test.17.jpg
+³   ³       bean_rust_test.18.jpg
+³   ³       bean_rust_test.19.jpg
+³   ³       bean_rust_test.2.jpg
+³   ³       bean_rust_test.20.jpg
+³   ³       bean_rust_test.21.jpg
+³   ³       bean_rust_test.22.jpg
+³   ³       bean_rust_test.23.jpg
+³   ³       bean_rust_test.24.jpg
+³   ³       bean_rust_test.25.jpg
+³   ³       bean_rust_test.26.jpg
+³   ³       bean_rust_test.27.jpg
+³   ³       bean_rust_test.28.jpg
+³   ³       bean_rust_test.29.jpg
+³   ³       bean_rust_test.3.jpg
+³   ³       bean_rust_test.30.jpg
+³   ³       bean_rust_test.31.jpg
+³   ³       bean_rust_test.32.jpg
+³   ³       bean_rust_test.33.jpg
+³   ³       bean_rust_test.34.jpg
+³   ³       bean_rust_test.35.jpg
+³   ³       bean_rust_test.36.jpg
+³   ³       bean_rust_test.37.jpg
+³   ³       bean_rust_test.38.jpg
+³   ³       bean_rust_test.39.jpg
+³   ³       bean_rust_test.4.jpg
+³   ³       bean_rust_test.40.jpg
+³   ³       bean_rust_test.41.jpg
+³   ³       bean_rust_test.42.jpg
+³   ³       bean_rust_test.5.jpg
+³   ³       bean_rust_test.6.jpg
+³   ³       bean_rust_test.7.jpg
+³   ³       bean_rust_test.8.jpg
+³   ³       bean_rust_test.9.jpg
+³   ³       healthy_test.0.jpg
+³   ³       healthy_test.1.jpg
+³   ³       healthy_test.10.jpg
+³   ³       healthy_test.11.jpg
+³   ³       healthy_test.12.jpg
+³   ³       healthy_test.13.jpg
+³   ³       healthy_test.14.jpg
+³   ³       healthy_test.15.jpg
+³   ³       healthy_test.16.jpg
+³   ³       healthy_test.17.jpg
+³   ³       healthy_test.18.jpg
+³   ³       healthy_test.19.jpg
+³   ³       healthy_test.2.jpg
+³   ³       healthy_test.20.jpg
+³   ³       healthy_test.21.jpg
+³   ³       healthy_test.22.jpg
+³   ³       healthy_test.23.jpg
+³   ³       healthy_test.24.jpg
+³   ³       healthy_test.25.jpg
+³   ³       healthy_test.26.jpg
+³   ³       healthy_test.27.jpg
+³   ³       healthy_test.28.jpg
+³   ³       healthy_test.29.jpg
+³   ³       healthy_test.3.jpg
+³   ³       healthy_test.30.jpg
+³   ³       healthy_test.31.jpg
+³   ³       healthy_test.32.jpg
+³   ³       healthy_test.33.jpg
+³   ³       healthy_test.34.jpg
+³   ³       healthy_test.35.jpg
+³   ³       healthy_test.36.jpg
+³   ³       healthy_test.37.jpg
+³   ³       healthy_test.38.jpg
+³   ³       healthy_test.39.jpg
+³   ³       healthy_test.4.jpg
+³   ³       healthy_test.40.jpg
+³   ³       healthy_test.41.jpg
+³   ³       healthy_test.5.jpg
+³   ³       healthy_test.6.jpg
+³   ³       healthy_test.7.jpg
+³   ³       healthy_test.8.jpg
+³   ³       healthy_test.9.jpg
+³   ³       
+³   ÃÄÄÄtrain
+³   ³   ÃÄÄÄ1
+³   ³   ³       angular_leaf_spot_train.0.jpg
+³   ³   ³       angular_leaf_spot_train.1.jpg
+³   ³   ³       angular_leaf_spot_train.10.jpg
+³   ³   ³       angular_leaf_spot_train.100.jpg
+³   ³   ³       angular_leaf_spot_train.101.jpg
+³   ³   ³       angular_leaf_spot_train.102.jpg
+³   ³   ³       angular_leaf_spot_train.103.jpg
+³   ³   ³       angular_leaf_spot_train.104.jpg
+³   ³   ³       angular_leaf_spot_train.105.jpg
+³   ³   ³       angular_leaf_spot_train.106.jpg
+³   ³   ³       angular_leaf_spot_train.107.jpg
+³   ³   ³       angular_leaf_spot_train.108.jpg
+³   ³   ³       angular_leaf_spot_train.109.jpg
+³   ³   ³       angular_leaf_spot_train.11.jpg
+³   ³   ³       angular_leaf_spot_train.110.jpg
+³   ³   ³       angular_leaf_spot_train.111.jpg
+³   ³   ³       angular_leaf_spot_train.112.jpg
+³   ³   ³       angular_leaf_spot_train.113.jpg
+³   ³   ³       angular_leaf_spot_train.114.jpg
+³   ³   ³       angular_leaf_spot_train.115.jpg
+³   ³   ³       angular_leaf_spot_train.116.jpg
+³   ³   ³       angular_leaf_spot_train.117.jpg
+³   ³   ³       angular_leaf_spot_train.118.jpg
+³   ³   ³       angular_leaf_spot_train.119.jpg
+³   ³   ³       angular_leaf_spot_train.12.jpg
+³   ³   ³       angular_leaf_spot_train.120.jpg
+³   ³   ³       angular_leaf_spot_train.121.jpg
+³   ³   ³       angular_leaf_spot_train.122.jpg
+³   ³   ³       angular_leaf_spot_train.123.jpg
+³   ³   ³       angular_leaf_spot_train.124.jpg
+³   ³   ³       angular_leaf_spot_train.125.jpg
+³   ³   ³       angular_leaf_spot_train.126.jpg
+³   ³   ³       angular_leaf_spot_train.127.jpg
+³   ³   ³       angular_leaf_spot_train.128.jpg
+³   ³   ³       angular_leaf_spot_train.129.jpg
+³   ³   ³       angular_leaf_spot_train.13.jpg
+³   ³   ³       angular_leaf_spot_train.130.jpg
+³   ³   ³       angular_leaf_spot_train.131.jpg
+³   ³   ³       angular_leaf_spot_train.132.jpg
+³   ³   ³       angular_leaf_spot_train.133.jpg
+³   ³   ³       angular_leaf_spot_train.134.jpg
+³   ³   ³       angular_leaf_spot_train.135.jpg
+³   ³   ³       angular_leaf_spot_train.136.jpg
+³   ³   ³       angular_leaf_spot_train.137.jpg
+³   ³   ³       angular_leaf_spot_train.138.jpg
+³   ³   ³       angular_leaf_spot_train.139.jpg
+³   ³   ³       angular_leaf_spot_train.14.jpg
+³   ³   ³       angular_leaf_spot_train.140.jpg
+³   ³   ³       angular_leaf_spot_train.141.jpg
+³   ³   ³       angular_leaf_spot_train.142.jpg
+³   ³   ³       angular_leaf_spot_train.143.jpg
+³   ³   ³       angular_leaf_spot_train.144.jpg
+³   ³   ³       angular_leaf_spot_train.145.jpg
+³   ³   ³       angular_leaf_spot_train.146.jpg
+³   ³   ³       angular_leaf_spot_train.147.jpg
+³   ³   ³       angular_leaf_spot_train.148.jpg
+³   ³   ³       angular_leaf_spot_train.149.jpg
+³   ³   ³       angular_leaf_spot_train.15.jpg
+³   ³   ³       angular_leaf_spot_train.150.jpg
+³   ³   ³       angular_leaf_spot_train.151.jpg
+³   ³   ³       angular_leaf_spot_train.152.jpg
+³   ³   ³       angular_leaf_spot_train.153.jpg
+³   ³   ³       angular_leaf_spot_train.154.jpg
+³   ³   ³       angular_leaf_spot_train.155.jpg
+³   ³   ³       angular_leaf_spot_train.156.jpg
+³   ³   ³       angular_leaf_spot_train.157.jpg
+³   ³   ³       angular_leaf_spot_train.158.jpg
+³   ³   ³       angular_leaf_spot_train.159.jpg
+³   ³   ³       angular_leaf_spot_train.16.jpg
+³   ³   ³       angular_leaf_spot_train.160.jpg
+³   ³   ³       angular_leaf_spot_train.161.jpg
+³   ³   ³       angular_leaf_spot_train.162.jpg
+³   ³   ³       angular_leaf_spot_train.163.jpg
+³   ³   ³       angular_leaf_spot_train.164.jpg
+³   ³   ³       angular_leaf_spot_train.165.jpg
+³   ³   ³       angular_leaf_spot_train.166.jpg
+³   ³   ³       angular_leaf_spot_train.167.jpg
+³   ³   ³       angular_leaf_spot_train.168.jpg
+³   ³   ³       angular_leaf_spot_train.169.jpg
+³   ³   ³       angular_leaf_spot_train.17.jpg
+³   ³   ³       angular_leaf_spot_train.170.jpg
+³   ³   ³       angular_leaf_spot_train.171.jpg
+³   ³   ³       angular_leaf_spot_train.172.jpg
+³   ³   ³       angular_leaf_spot_train.173.jpg
+³   ³   ³       angular_leaf_spot_train.174.jpg
+³   ³   ³       angular_leaf_spot_train.175.jpg
+³   ³   ³       angular_leaf_spot_train.176.jpg
+³   ³   ³       angular_leaf_spot_train.177.jpg
+³   ³   ³       angular_leaf_spot_train.178.jpg
+³   ³   ³       angular_leaf_spot_train.179.jpg
+³   ³   ³       angular_leaf_spot_train.18.jpg
+³   ³   ³       angular_leaf_spot_train.180.jpg
+³   ³   ³       angular_leaf_spot_train.181.jpg
+³   ³   ³       angular_leaf_spot_train.182.jpg
+³   ³   ³       angular_leaf_spot_train.183.jpg
+³   ³   ³       angular_leaf_spot_train.184.jpg
+³   ³   ³       angular_leaf_spot_train.185.jpg
+³   ³   ³       angular_leaf_spot_train.186.jpg
+³   ³   ³       angular_leaf_spot_train.187.jpg
+³   ³   ³       angular_leaf_spot_train.188.jpg
+³   ³   ³       angular_leaf_spot_train.189.jpg
+³   ³   ³       angular_leaf_spot_train.19.jpg
+³   ³   ³       angular_leaf_spot_train.190.jpg
+³   ³   ³       angular_leaf_spot_train.191.jpg
+³   ³   ³       angular_leaf_spot_train.192.jpg
+³   ³   ³       angular_leaf_spot_train.193.jpg
+³   ³   ³       angular_leaf_spot_train.194.jpg
+³   ³   ³       angular_leaf_spot_train.195.jpg
+³   ³   ³       angular_leaf_spot_train.196.jpg
+³   ³   ³       angular_leaf_spot_train.197.jpg
+³   ³   ³       angular_leaf_spot_train.198.jpg
+³   ³   ³       angular_leaf_spot_train.199.jpg
+³   ³   ³       angular_leaf_spot_train.2.jpg
+³   ³   ³       angular_leaf_spot_train.20.jpg
+³   ³   ³       angular_leaf_spot_train.200.jpg
+³   ³   ³       angular_leaf_spot_train.201.jpg
+³   ³   ³       angular_leaf_spot_train.202.jpg
+³   ³   ³       angular_leaf_spot_train.203.jpg
+³   ³   ³       angular_leaf_spot_train.204.jpg
+³   ³   ³       angular_leaf_spot_train.205.jpg
+³   ³   ³       angular_leaf_spot_train.206.jpg
+³   ³   ³       angular_leaf_spot_train.207.jpg
+³   ³   ³       angular_leaf_spot_train.208.jpg
+³   ³   ³       angular_leaf_spot_train.209.jpg
+³   ³   ³       angular_leaf_spot_train.21.jpg
+³   ³   ³       angular_leaf_spot_train.210.jpg
+³   ³   ³       angular_leaf_spot_train.211.jpg
+³   ³   ³       angular_leaf_spot_train.212.jpg
+³   ³   ³       angular_leaf_spot_train.213.jpg
+³   ³   ³       angular_leaf_spot_train.214.jpg
+³   ³   ³       angular_leaf_spot_train.215.jpg
+³   ³   ³       angular_leaf_spot_train.216.jpg
+³   ³   ³       angular_leaf_spot_train.217.jpg
+³   ³   ³       angular_leaf_spot_train.218.jpg
+³   ³   ³       angular_leaf_spot_train.219.jpg
+³   ³   ³       angular_leaf_spot_train.22.jpg
+³   ³   ³       angular_leaf_spot_train.220.jpg
+³   ³   ³       angular_leaf_spot_train.221.jpg
+³   ³   ³       angular_leaf_spot_train.222.jpg
+³   ³   ³       angular_leaf_spot_train.223.jpg
+³   ³   ³       angular_leaf_spot_train.224.jpg
+³   ³   ³       angular_leaf_spot_train.225.jpg
+³   ³   ³       angular_leaf_spot_train.226.jpg
+³   ³   ³       angular_leaf_spot_train.227.jpg
+³   ³   ³       angular_leaf_spot_train.228.jpg
+³   ³   ³       angular_leaf_spot_train.229.jpg
+³   ³   ³       angular_leaf_spot_train.23.jpg
+³   ³   ³       angular_leaf_spot_train.230.jpg
+³   ³   ³       angular_leaf_spot_train.231.jpg
+³   ³   ³       angular_leaf_spot_train.232.jpg
+³   ³   ³       angular_leaf_spot_train.233.jpg
+³   ³   ³       angular_leaf_spot_train.234.jpg
+³   ³   ³       angular_leaf_spot_train.235.jpg
+³   ³   ³       angular_leaf_spot_train.236.jpg
+³   ³   ³       angular_leaf_spot_train.237.jpg
+³   ³   ³       angular_leaf_spot_train.238.jpg
+³   ³   ³       angular_leaf_spot_train.239.jpg
+³   ³   ³       angular_leaf_spot_train.24.jpg
+³   ³   ³       angular_leaf_spot_train.240.jpg
+³   ³   ³       angular_leaf_spot_train.241.jpg
+³   ³   ³       angular_leaf_spot_train.242.jpg
+³   ³   ³       angular_leaf_spot_train.243.jpg
+³   ³   ³       angular_leaf_spot_train.244.jpg
+³   ³   ³       angular_leaf_spot_train.245.jpg
+³   ³   ³       angular_leaf_spot_train.246.jpg
+³   ³   ³       angular_leaf_spot_train.247.jpg
+³   ³   ³       angular_leaf_spot_train.248.jpg
+³   ³   ³       angular_leaf_spot_train.249.jpg
+³   ³   ³       angular_leaf_spot_train.25.jpg
+³   ³   ³       angular_leaf_spot_train.250.jpg
+³   ³   ³       angular_leaf_spot_train.251.jpg
+³   ³   ³       angular_leaf_spot_train.252.jpg
+³   ³   ³       angular_leaf_spot_train.253.jpg
+³   ³   ³       angular_leaf_spot_train.254.jpg
+³   ³   ³       angular_leaf_spot_train.255.jpg
+³   ³   ³       angular_leaf_spot_train.256.jpg
+³   ³   ³       angular_leaf_spot_train.257.jpg
+³   ³   ³       angular_leaf_spot_train.258.jpg
+³   ³   ³       angular_leaf_spot_train.259.jpg
+³   ³   ³       angular_leaf_spot_train.26.jpg
+³   ³   ³       angular_leaf_spot_train.260.jpg
+³   ³   ³       angular_leaf_spot_train.261.jpg
+³   ³   ³       angular_leaf_spot_train.262.jpg
+³   ³   ³       angular_leaf_spot_train.263.jpg
+³   ³   ³       angular_leaf_spot_train.264.jpg
+³   ³   ³       angular_leaf_spot_train.265.jpg
+³   ³   ³       angular_leaf_spot_train.266.jpg
+³   ³   ³       angular_leaf_spot_train.267.jpg
+³   ³   ³       angular_leaf_spot_train.268.jpg
+³   ³   ³       angular_leaf_spot_train.269.jpg
+³   ³   ³       angular_leaf_spot_train.27.jpg
+³   ³   ³       angular_leaf_spot_train.270.jpg
+³   ³   ³       angular_leaf_spot_train.271.jpg
+³   ³   ³       angular_leaf_spot_train.272.jpg
+³   ³   ³       angular_leaf_spot_train.273.jpg
+³   ³   ³       angular_leaf_spot_train.274.jpg
+³   ³   ³       angular_leaf_spot_train.275.jpg
+³   ³   ³       angular_leaf_spot_train.276.jpg
+³   ³   ³       angular_leaf_spot_train.277.jpg
+³   ³   ³       angular_leaf_spot_train.278.jpg
+³   ³   ³       angular_leaf_spot_train.279.jpg
+³   ³   ³       angular_leaf_spot_train.28.jpg
+³   ³   ³       angular_leaf_spot_train.280.jpg
+³   ³   ³       angular_leaf_spot_train.281.jpg
+³   ³   ³       angular_leaf_spot_train.282.jpg
+³   ³   ³       angular_leaf_spot_train.283.jpg
+³   ³   ³       angular_leaf_spot_train.284.jpg
+³   ³   ³       angular_leaf_spot_train.285.jpg
+³   ³   ³       angular_leaf_spot_train.286.jpg
+³   ³   ³       angular_leaf_spot_train.287.jpg
+³   ³   ³       angular_leaf_spot_train.288.jpg
+³   ³   ³       angular_leaf_spot_train.289.jpg
+³   ³   ³       angular_leaf_spot_train.29.jpg
+³   ³   ³       angular_leaf_spot_train.290.jpg
+³   ³   ³       angular_leaf_spot_train.291.jpg
+³   ³   ³       angular_leaf_spot_train.292.jpg
+³   ³   ³       angular_leaf_spot_train.293.jpg
+³   ³   ³       angular_leaf_spot_train.294.jpg
+³   ³   ³       angular_leaf_spot_train.295.jpg
+³   ³   ³       angular_leaf_spot_train.296.jpg
+³   ³   ³       angular_leaf_spot_train.297.jpg
+³   ³   ³       angular_leaf_spot_train.298.jpg
+³   ³   ³       angular_leaf_spot_train.299.jpg
+³   ³   ³       angular_leaf_spot_train.3.jpg
+³   ³   ³       angular_leaf_spot_train.30.jpg
+³   ³   ³       angular_leaf_spot_train.300.jpg
+³   ³   ³       angular_leaf_spot_train.301.jpg
+³   ³   ³       angular_leaf_spot_train.302.jpg
+³   ³   ³       angular_leaf_spot_train.303.jpg
+³   ³   ³       angular_leaf_spot_train.304.jpg
+³   ³   ³       angular_leaf_spot_train.305.jpg
+³   ³   ³       angular_leaf_spot_train.306.jpg
+³   ³   ³       angular_leaf_spot_train.307.jpg
+³   ³   ³       angular_leaf_spot_train.308.jpg
+³   ³   ³       angular_leaf_spot_train.309.jpg
+³   ³   ³       angular_leaf_spot_train.31.jpg
+³   ³   ³       angular_leaf_spot_train.310.jpg
+³   ³   ³       angular_leaf_spot_train.311.jpg
+³   ³   ³       angular_leaf_spot_train.312.jpg
+³   ³   ³       angular_leaf_spot_train.313.jpg
+³   ³   ³       angular_leaf_spot_train.314.jpg
+³   ³   ³       angular_leaf_spot_train.315.jpg
+³   ³   ³       angular_leaf_spot_train.316.jpg
+³   ³   ³       angular_leaf_spot_train.317.jpg
+³   ³   ³       angular_leaf_spot_train.318.jpg
+³   ³   ³       angular_leaf_spot_train.319.jpg
+³   ³   ³       angular_leaf_spot_train.32.jpg
+³   ³   ³       angular_leaf_spot_train.320.jpg
+³   ³   ³       angular_leaf_spot_train.321.jpg
+³   ³   ³       angular_leaf_spot_train.322.jpg
+³   ³   ³       angular_leaf_spot_train.323.jpg
+³   ³   ³       angular_leaf_spot_train.324.jpg
+³   ³   ³       angular_leaf_spot_train.325.jpg
+³   ³   ³       angular_leaf_spot_train.326.jpg
+³   ³   ³       angular_leaf_spot_train.327.jpg
+³   ³   ³       angular_leaf_spot_train.328.jpg
+³   ³   ³       angular_leaf_spot_train.329.jpg
+³   ³   ³       angular_leaf_spot_train.33.jpg
+³   ³   ³       angular_leaf_spot_train.330.jpg
+³   ³   ³       angular_leaf_spot_train.331.jpg
+³   ³   ³       angular_leaf_spot_train.332.jpg
+³   ³   ³       angular_leaf_spot_train.333.jpg
+³   ³   ³       angular_leaf_spot_train.334.jpg
+³   ³   ³       angular_leaf_spot_train.335.jpg
+³   ³   ³       angular_leaf_spot_train.336.jpg
+³   ³   ³       angular_leaf_spot_train.337.jpg
+³   ³   ³       angular_leaf_spot_train.338.jpg
+³   ³   ³       angular_leaf_spot_train.339.jpg
+³   ³   ³       angular_leaf_spot_train.34.jpg
+³   ³   ³       angular_leaf_spot_train.340.jpg
+³   ³   ³       angular_leaf_spot_train.341.jpg
+³   ³   ³       angular_leaf_spot_train.342.jpg
+³   ³   ³       angular_leaf_spot_train.343.jpg
+³   ³   ³       angular_leaf_spot_train.344.jpg
+³   ³   ³       angular_leaf_spot_train.35.jpg
+³   ³   ³       angular_leaf_spot_train.36.jpg
+³   ³   ³       angular_leaf_spot_train.37.jpg
+³   ³   ³       angular_leaf_spot_train.38.jpg
+³   ³   ³       angular_leaf_spot_train.39.jpg
+³   ³   ³       angular_leaf_spot_train.4.jpg
+³   ³   ³       angular_leaf_spot_train.40.jpg
+³   ³   ³       angular_leaf_spot_train.41.jpg
+³   ³   ³       angular_leaf_spot_train.42.jpg
+³   ³   ³       angular_leaf_spot_train.43.jpg
+³   ³   ³       angular_leaf_spot_train.44.jpg
+³   ³   ³       angular_leaf_spot_train.45.jpg
+³   ³   ³       angular_leaf_spot_train.46.jpg
+³   ³   ³       angular_leaf_spot_train.47.jpg
+³   ³   ³       angular_leaf_spot_train.48.jpg
+³   ³   ³       angular_leaf_spot_train.49.jpg
+³   ³   ³       angular_leaf_spot_train.5.jpg
+³   ³   ³       angular_leaf_spot_train.50.jpg
+³   ³   ³       angular_leaf_spot_train.51.jpg
+³   ³   ³       angular_leaf_spot_train.52.jpg
+³   ³   ³       angular_leaf_spot_train.53.jpg
+³   ³   ³       angular_leaf_spot_train.54.jpg
+³   ³   ³       angular_leaf_spot_train.55.jpg
+³   ³   ³       angular_leaf_spot_train.56.jpg
+³   ³   ³       angular_leaf_spot_train.57.jpg
+³   ³   ³       angular_leaf_spot_train.58.jpg
+³   ³   ³       angular_leaf_spot_train.59.jpg
+³   ³   ³       angular_leaf_spot_train.6.jpg
+³   ³   ³       angular_leaf_spot_train.60.jpg
+³   ³   ³       angular_leaf_spot_train.61.jpg
+³   ³   ³       angular_leaf_spot_train.62.jpg
+³   ³   ³       angular_leaf_spot_train.63.jpg
+³   ³   ³       angular_leaf_spot_train.64.jpg
+³   ³   ³       angular_leaf_spot_train.65.jpg
+³   ³   ³       angular_leaf_spot_train.66.jpg
+³   ³   ³       angular_leaf_spot_train.67.jpg
+³   ³   ³       angular_leaf_spot_train.68.jpg
+³   ³   ³       angular_leaf_spot_train.69.jpg
+³   ³   ³       angular_leaf_spot_train.7.jpg
+³   ³   ³       angular_leaf_spot_train.70.jpg
+³   ³   ³       angular_leaf_spot_train.71.jpg
+³   ³   ³       angular_leaf_spot_train.72.jpg
+³   ³   ³       angular_leaf_spot_train.73.jpg
+³   ³   ³       angular_leaf_spot_train.74.jpg
+³   ³   ³       angular_leaf_spot_train.75.jpg
+³   ³   ³       angular_leaf_spot_train.76.jpg
+³   ³   ³       angular_leaf_spot_train.77.jpg
+³   ³   ³       angular_leaf_spot_train.78.jpg
+³   ³   ³       angular_leaf_spot_train.79.jpg
+³   ³   ³       angular_leaf_spot_train.8.jpg
+³   ³   ³       angular_leaf_spot_train.80.jpg
+³   ³   ³       angular_leaf_spot_train.81.jpg
+³   ³   ³       angular_leaf_spot_train.82.jpg
+³   ³   ³       angular_leaf_spot_train.83.jpg
+³   ³   ³       angular_leaf_spot_train.84.jpg
+³   ³   ³       angular_leaf_spot_train.85.jpg
+³   ³   ³       angular_leaf_spot_train.86.jpg
+³   ³   ³       angular_leaf_spot_train.87.jpg
+³   ³   ³       angular_leaf_spot_train.88.jpg
+³   ³   ³       angular_leaf_spot_train.89.jpg
+³   ³   ³       angular_leaf_spot_train.9.jpg
+³   ³   ³       angular_leaf_spot_train.90.jpg
+³   ³   ³       angular_leaf_spot_train.91.jpg
+³   ³   ³       angular_leaf_spot_train.92.jpg
+³   ³   ³       angular_leaf_spot_train.93.jpg
+³   ³   ³       angular_leaf_spot_train.94.jpg
+³   ³   ³       angular_leaf_spot_train.95.jpg
+³   ³   ³       angular_leaf_spot_train.96.jpg
+³   ³   ³       angular_leaf_spot_train.97.jpg
+³   ³   ³       angular_leaf_spot_train.98.jpg
+³   ³   ³       angular_leaf_spot_train.99.jpg
+³   ³   ³       
+³   ³   ÃÄÄÄ2
+³   ³   ³       bean_rust_train.0.jpg
+³   ³   ³       bean_rust_train.1.jpg
+³   ³   ³       bean_rust_train.10.jpg
+³   ³   ³       bean_rust_train.100.jpg
+³   ³   ³       bean_rust_train.101.jpg
+³   ³   ³       bean_rust_train.102.jpg
+³   ³   ³       bean_rust_train.103.jpg
+³   ³   ³       bean_rust_train.104.jpg
+³   ³   ³       bean_rust_train.105.jpg
+³   ³   ³       bean_rust_train.106.jpg
+³   ³   ³       bean_rust_train.107.jpg
+³   ³   ³       bean_rust_train.108.jpg
+³   ³   ³       bean_rust_train.109.jpg
+³   ³   ³       bean_rust_train.11.jpg
+³   ³   ³       bean_rust_train.110.jpg
+³   ³   ³       bean_rust_train.111.jpg
+³   ³   ³       bean_rust_train.112.jpg
+³   ³   ³       bean_rust_train.113.jpg
+³   ³   ³       bean_rust_train.114.jpg
+³   ³   ³       bean_rust_train.115.jpg
+³   ³   ³       bean_rust_train.116.jpg
+³   ³   ³       bean_rust_train.117.jpg
+³   ³   ³       bean_rust_train.118.jpg
+³   ³   ³       bean_rust_train.119.jpg
+³   ³   ³       bean_rust_train.12.jpg
+³   ³   ³       bean_rust_train.120.jpg
+³   ³   ³       bean_rust_train.121.jpg
+³   ³   ³       bean_rust_train.122.jpg
+³   ³   ³       bean_rust_train.123.jpg
+³   ³   ³       bean_rust_train.124.jpg
+³   ³   ³       bean_rust_train.125.jpg
+³   ³   ³       bean_rust_train.126.jpg
+³   ³   ³       bean_rust_train.127.jpg
+³   ³   ³       bean_rust_train.128.jpg
+³   ³   ³       bean_rust_train.129.jpg
+³   ³   ³       bean_rust_train.13.jpg
+³   ³   ³       bean_rust_train.130.jpg
+³   ³   ³       bean_rust_train.131.jpg
+³   ³   ³       bean_rust_train.132.jpg
+³   ³   ³       bean_rust_train.133.jpg
+³   ³   ³       bean_rust_train.134.jpg
+³   ³   ³       bean_rust_train.135.jpg
+³   ³   ³       bean_rust_train.136.jpg
+³   ³   ³       bean_rust_train.137.jpg
+³   ³   ³       bean_rust_train.138.jpg
+³   ³   ³       bean_rust_train.139.jpg
+³   ³   ³       bean_rust_train.14.jpg
+³   ³   ³       bean_rust_train.140.jpg
+³   ³   ³       bean_rust_train.141.jpg
+³   ³   ³       bean_rust_train.142.jpg
+³   ³   ³       bean_rust_train.143.jpg
+³   ³   ³       bean_rust_train.144.jpg
+³   ³   ³       bean_rust_train.145.jpg
+³   ³   ³       bean_rust_train.146.jpg
+³   ³   ³       bean_rust_train.147.jpg
+³   ³   ³       bean_rust_train.148.jpg
+³   ³   ³       bean_rust_train.149.jpg
+³   ³   ³       bean_rust_train.15.jpg
+³   ³   ³       bean_rust_train.150.jpg
+³   ³   ³       bean_rust_train.151.jpg
+³   ³   ³       bean_rust_train.152.jpg
+³   ³   ³       bean_rust_train.153.jpg
+³   ³   ³       bean_rust_train.154.jpg
+³   ³   ³       bean_rust_train.155.jpg
+³   ³   ³       bean_rust_train.156.jpg
+³   ³   ³       bean_rust_train.157.jpg
+³   ³   ³       bean_rust_train.158.jpg
+³   ³   ³       bean_rust_train.159.jpg
+³   ³   ³       bean_rust_train.16.jpg
+³   ³   ³       bean_rust_train.160.jpg
+³   ³   ³       bean_rust_train.161.jpg
+³   ³   ³       bean_rust_train.162.jpg
+³   ³   ³       bean_rust_train.163.jpg
+³   ³   ³       bean_rust_train.164.jpg
+³   ³   ³       bean_rust_train.165.jpg
+³   ³   ³       bean_rust_train.166.jpg
+³   ³   ³       bean_rust_train.167.jpg
+³   ³   ³       bean_rust_train.168.jpg
+³   ³   ³       bean_rust_train.169.jpg
+³   ³   ³       bean_rust_train.17.jpg
+³   ³   ³       bean_rust_train.170.jpg
+³   ³   ³       bean_rust_train.171.jpg
+³   ³   ³       bean_rust_train.172.jpg
+³   ³   ³       bean_rust_train.173.jpg
+³   ³   ³       bean_rust_train.174.jpg
+³   ³   ³       bean_rust_train.175.jpg
+³   ³   ³       bean_rust_train.176.jpg
+³   ³   ³       bean_rust_train.177.jpg
+³   ³   ³       bean_rust_train.178.jpg
+³   ³   ³       bean_rust_train.179.jpg
+³   ³   ³       bean_rust_train.18.jpg
+³   ³   ³       bean_rust_train.180.jpg
+³   ³   ³       bean_rust_train.181.jpg
+³   ³   ³       bean_rust_train.182.jpg
+³   ³   ³       bean_rust_train.183.jpg
+³   ³   ³       bean_rust_train.184.jpg
+³   ³   ³       bean_rust_train.185.jpg
+³   ³   ³       bean_rust_train.186.jpg
+³   ³   ³       bean_rust_train.187.jpg
+³   ³   ³       bean_rust_train.188.jpg
+³   ³   ³       bean_rust_train.189.jpg
+³   ³   ³       bean_rust_train.19.jpg
+³   ³   ³       bean_rust_train.190.jpg
+³   ³   ³       bean_rust_train.191.jpg
+³   ³   ³       bean_rust_train.192.jpg
+³   ³   ³       bean_rust_train.193.jpg
+³   ³   ³       bean_rust_train.194.jpg
+³   ³   ³       bean_rust_train.195.jpg
+³   ³   ³       bean_rust_train.196.jpg
+³   ³   ³       bean_rust_train.197.jpg
+³   ³   ³       bean_rust_train.198.jpg
+³   ³   ³       bean_rust_train.199.jpg
+³   ³   ³       bean_rust_train.2.jpg
+³   ³   ³       bean_rust_train.20.jpg
+³   ³   ³       bean_rust_train.200.jpg
+³   ³   ³       bean_rust_train.201.jpg
+³   ³   ³       bean_rust_train.202.jpg
+³   ³   ³       bean_rust_train.203.jpg
+³   ³   ³       bean_rust_train.204.jpg
+³   ³   ³       bean_rust_train.205.jpg
+³   ³   ³       bean_rust_train.206.jpg
+³   ³   ³       bean_rust_train.207.jpg
+³   ³   ³       bean_rust_train.208.jpg
+³   ³   ³       bean_rust_train.209.jpg
+³   ³   ³       bean_rust_train.21.jpg
+³   ³   ³       bean_rust_train.210.jpg
+³   ³   ³       bean_rust_train.211.jpg
+³   ³   ³       bean_rust_train.212.jpg
+³   ³   ³       bean_rust_train.213.jpg
+³   ³   ³       bean_rust_train.214.jpg
+³   ³   ³       bean_rust_train.215.jpg
+³   ³   ³       bean_rust_train.216.jpg
+³   ³   ³       bean_rust_train.217.jpg
+³   ³   ³       bean_rust_train.218.jpg
+³   ³   ³       bean_rust_train.219.jpg
+³   ³   ³       bean_rust_train.22.jpg
+³   ³   ³       bean_rust_train.220.jpg
+³   ³   ³       bean_rust_train.221.jpg
+³   ³   ³       bean_rust_train.222.jpg
+³   ³   ³       bean_rust_train.223.jpg
+³   ³   ³       bean_rust_train.224.jpg
+³   ³   ³       bean_rust_train.225.jpg
+³   ³   ³       bean_rust_train.226.jpg
+³   ³   ³       bean_rust_train.227.jpg
+³   ³   ³       bean_rust_train.228.jpg
+³   ³   ³       bean_rust_train.229.jpg
+³   ³   ³       bean_rust_train.23.jpg
+³   ³   ³       bean_rust_train.230.jpg
+³   ³   ³       bean_rust_train.231.jpg
+³   ³   ³       bean_rust_train.232.jpg
+³   ³   ³       bean_rust_train.233.jpg
+³   ³   ³       bean_rust_train.234.jpg
+³   ³   ³       bean_rust_train.235.jpg
+³   ³   ³       bean_rust_train.236.jpg
+³   ³   ³       bean_rust_train.237.jpg
+³   ³   ³       bean_rust_train.238.jpg
+³   ³   ³       bean_rust_train.239.jpg
+³   ³   ³       bean_rust_train.24.jpg
+³   ³   ³       bean_rust_train.240.jpg
+³   ³   ³       bean_rust_train.241.jpg
+³   ³   ³       bean_rust_train.242.jpg
+³   ³   ³       bean_rust_train.243.jpg
+³   ³   ³       bean_rust_train.244.jpg
+³   ³   ³       bean_rust_train.245.jpg
+³   ³   ³       bean_rust_train.246.jpg
+³   ³   ³       bean_rust_train.247.jpg
+³   ³   ³       bean_rust_train.248.jpg
+³   ³   ³       bean_rust_train.249.jpg
+³   ³   ³       bean_rust_train.25.jpg
+³   ³   ³       bean_rust_train.250.jpg
+³   ³   ³       bean_rust_train.251.jpg
+³   ³   ³       bean_rust_train.252.jpg
+³   ³   ³       bean_rust_train.253.jpg
+³   ³   ³       bean_rust_train.254.jpg
+³   ³   ³       bean_rust_train.255.jpg
+³   ³   ³       bean_rust_train.256.jpg
+³   ³   ³       bean_rust_train.257.jpg
+³   ³   ³       bean_rust_train.258.jpg
+³   ³   ³       bean_rust_train.259.jpg
+³   ³   ³       bean_rust_train.26.jpg
+³   ³   ³       bean_rust_train.260.jpg
+³   ³   ³       bean_rust_train.261.jpg
+³   ³   ³       bean_rust_train.262.jpg
+³   ³   ³       bean_rust_train.263.jpg
+³   ³   ³       bean_rust_train.264.jpg
+³   ³   ³       bean_rust_train.265.jpg
+³   ³   ³       bean_rust_train.266.jpg
+³   ³   ³       bean_rust_train.267.jpg
+³   ³   ³       bean_rust_train.268.jpg
+³   ³   ³       bean_rust_train.269.jpg
+³   ³   ³       bean_rust_train.27.jpg
+³   ³   ³       bean_rust_train.270.jpg
+³   ³   ³       bean_rust_train.271.jpg
+³   ³   ³       bean_rust_train.272.jpg
+³   ³   ³       bean_rust_train.273.jpg
+³   ³   ³       bean_rust_train.274.jpg
+³   ³   ³       bean_rust_train.275.jpg
+³   ³   ³       bean_rust_train.276.jpg
+³   ³   ³       bean_rust_train.277.jpg
+³   ³   ³       bean_rust_train.278.jpg
+³   ³   ³       bean_rust_train.279.jpg
+³   ³   ³       bean_rust_train.28.jpg
+³   ³   ³       bean_rust_train.280.jpg
+³   ³   ³       bean_rust_train.281.jpg
+³   ³   ³       bean_rust_train.282.jpg
+³   ³   ³       bean_rust_train.283.jpg
+³   ³   ³       bean_rust_train.284.jpg
+³   ³   ³       bean_rust_train.285.jpg
+³   ³   ³       bean_rust_train.286.jpg
+³   ³   ³       bean_rust_train.287.jpg
+³   ³   ³       bean_rust_train.288.jpg
+³   ³   ³       bean_rust_train.289.jpg
+³   ³   ³       bean_rust_train.29.jpg
+³   ³   ³       bean_rust_train.290.jpg
+³   ³   ³       bean_rust_train.291.jpg
+³   ³   ³       bean_rust_train.292.jpg
+³   ³   ³       bean_rust_train.293.jpg
+³   ³   ³       bean_rust_train.294.jpg
+³   ³   ³       bean_rust_train.295.jpg
+³   ³   ³       bean_rust_train.296.jpg
+³   ³   ³       bean_rust_train.297.jpg
+³   ³   ³       bean_rust_train.298.jpg
+³   ³   ³       bean_rust_train.299.jpg
+³   ³   ³       bean_rust_train.3.jpg
+³   ³   ³       bean_rust_train.30.jpg
+³   ³   ³       bean_rust_train.300.jpg
+³   ³   ³       bean_rust_train.301.jpg
+³   ³   ³       bean_rust_train.302.jpg
+³   ³   ³       bean_rust_train.303.jpg
+³   ³   ³       bean_rust_train.304.jpg
+³   ³   ³       bean_rust_train.305.jpg
+³   ³   ³       bean_rust_train.306.jpg
+³   ³   ³       bean_rust_train.307.jpg
+³   ³   ³       bean_rust_train.308.jpg
+³   ³   ³       bean_rust_train.309.jpg
+³   ³   ³       bean_rust_train.31.jpg
+³   ³   ³       bean_rust_train.310.jpg
+³   ³   ³       bean_rust_train.311.jpg
+³   ³   ³       bean_rust_train.312.jpg
+³   ³   ³       bean_rust_train.313.jpg
+³   ³   ³       bean_rust_train.314.jpg
+³   ³   ³       bean_rust_train.315.jpg
+³   ³   ³       bean_rust_train.316.jpg
+³   ³   ³       bean_rust_train.317.jpg
+³   ³   ³       bean_rust_train.318.jpg
+³   ³   ³       bean_rust_train.319.jpg
+³   ³   ³       bean_rust_train.32.jpg
+³   ³   ³       bean_rust_train.320.jpg
+³   ³   ³       bean_rust_train.321.jpg
+³   ³   ³       bean_rust_train.322.jpg
+³   ³   ³       bean_rust_train.323.jpg
+³   ³   ³       bean_rust_train.324.jpg
+³   ³   ³       bean_rust_train.325.jpg
+³   ³   ³       bean_rust_train.326.jpg
+³   ³   ³       bean_rust_train.327.jpg
+³   ³   ³       bean_rust_train.328.jpg
+³   ³   ³       bean_rust_train.329.jpg
+³   ³   ³       bean_rust_train.33.jpg
+³   ³   ³       bean_rust_train.330.jpg
+³   ³   ³       bean_rust_train.331.jpg
+³   ³   ³       bean_rust_train.332.jpg
+³   ³   ³       bean_rust_train.333.jpg
+³   ³   ³       bean_rust_train.334.jpg
+³   ³   ³       bean_rust_train.335.jpg
+³   ³   ³       bean_rust_train.336.jpg
+³   ³   ³       bean_rust_train.337.jpg
+³   ³   ³       bean_rust_train.338.jpg
+³   ³   ³       bean_rust_train.339.jpg
+³   ³   ³       bean_rust_train.34.jpg
+³   ³   ³       bean_rust_train.340.jpg
+³   ³   ³       bean_rust_train.341.jpg
+³   ³   ³       bean_rust_train.342.jpg
+³   ³   ³       bean_rust_train.343.jpg
+³   ³   ³       bean_rust_train.344.jpg
+³   ³   ³       bean_rust_train.345.jpg
+³   ³   ³       bean_rust_train.346.jpg
+³   ³   ³       bean_rust_train.347.jpg
+³   ³   ³       bean_rust_train.35.jpg
+³   ³   ³       bean_rust_train.36.jpg
+³   ³   ³       bean_rust_train.37.jpg
+³   ³   ³       bean_rust_train.38.jpg
+³   ³   ³       bean_rust_train.39.jpg
+³   ³   ³       bean_rust_train.4.jpg
+³   ³   ³       bean_rust_train.40.jpg
+³   ³   ³       bean_rust_train.41.jpg
+³   ³   ³       bean_rust_train.42.jpg
+³   ³   ³       bean_rust_train.43.jpg
+³   ³   ³       bean_rust_train.44.jpg
+³   ³   ³       bean_rust_train.45.jpg
+³   ³   ³       bean_rust_train.46.jpg
+³   ³   ³       bean_rust_train.47.jpg
+³   ³   ³       bean_rust_train.48.jpg
+³   ³   ³       bean_rust_train.49.jpg
+³   ³   ³       bean_rust_train.5.jpg
+³   ³   ³       bean_rust_train.50.jpg
+³   ³   ³       bean_rust_train.51.jpg
+³   ³   ³       bean_rust_train.52.jpg
+³   ³   ³       bean_rust_train.53.jpg
+³   ³   ³       bean_rust_train.54.jpg
+³   ³   ³       bean_rust_train.55.jpg
+³   ³   ³       bean_rust_train.56.jpg
+³   ³   ³       bean_rust_train.57.jpg
+³   ³   ³       bean_rust_train.58.jpg
+³   ³   ³       bean_rust_train.59.jpg
+³   ³   ³       bean_rust_train.6.jpg
+³   ³   ³       bean_rust_train.60.jpg
+³   ³   ³       bean_rust_train.61.jpg
+³   ³   ³       bean_rust_train.62.jpg
+³   ³   ³       bean_rust_train.63.jpg
+³   ³   ³       bean_rust_train.64.jpg
+³   ³   ³       bean_rust_train.65.jpg
+³   ³   ³       bean_rust_train.66.jpg
+³   ³   ³       bean_rust_train.67.jpg
+³   ³   ³       bean_rust_train.68.jpg
+³   ³   ³       bean_rust_train.69.jpg
+³   ³   ³       bean_rust_train.7.jpg
+³   ³   ³       bean_rust_train.70.jpg
+³   ³   ³       bean_rust_train.71.jpg
+³   ³   ³       bean_rust_train.72.jpg
+³   ³   ³       bean_rust_train.73.jpg
+³   ³   ³       bean_rust_train.74.jpg
+³   ³   ³       bean_rust_train.75.jpg
+³   ³   ³       bean_rust_train.76.jpg
+³   ³   ³       bean_rust_train.77.jpg
+³   ³   ³       bean_rust_train.78.jpg
+³   ³   ³       bean_rust_train.79.jpg
+³   ³   ³       bean_rust_train.8.jpg
+³   ³   ³       bean_rust_train.80.jpg
+³   ³   ³       bean_rust_train.81.jpg
+³   ³   ³       bean_rust_train.82.jpg
+³   ³   ³       bean_rust_train.83.jpg
+³   ³   ³       bean_rust_train.84.jpg
+³   ³   ³       bean_rust_train.85.jpg
+³   ³   ³       bean_rust_train.86.jpg
+³   ³   ³       bean_rust_train.87.jpg
+³   ³   ³       bean_rust_train.88.jpg
+³   ³   ³       bean_rust_train.89.jpg
+³   ³   ³       bean_rust_train.9.jpg
+³   ³   ³       bean_rust_train.90.jpg
+³   ³   ³       bean_rust_train.91.jpg
+³   ³   ³       bean_rust_train.92.jpg
+³   ³   ³       bean_rust_train.93.jpg
+³   ³   ³       bean_rust_train.94.jpg
+³   ³   ³       bean_rust_train.95.jpg
+³   ³   ³       bean_rust_train.96.jpg
+³   ³   ³       bean_rust_train.97.jpg
+³   ³   ³       bean_rust_train.98.jpg
+³   ³   ³       bean_rust_train.99.jpg
+³   ³   ³       
+³   ³   ÀÄÄÄ3
+³   ³           healthy_train.0.jpg
+³   ³           healthy_train.1.jpg
+³   ³           healthy_train.10.jpg
+³   ³           healthy_train.100.jpg
+³   ³           healthy_train.101.jpg
+³   ³           healthy_train.102.jpg
+³   ³           healthy_train.103.jpg
+³   ³           healthy_train.104.jpg
+³   ³           healthy_train.105.jpg
+³   ³           healthy_train.106.jpg
+³   ³           healthy_train.107.jpg
+³   ³           healthy_train.108.jpg
+³   ³           healthy_train.109.jpg
+³   ³           healthy_train.11.jpg
+³   ³           healthy_train.110.jpg
+³   ³           healthy_train.111.jpg
+³   ³           healthy_train.112.jpg
+³   ³           healthy_train.113.jpg
+³   ³           healthy_train.114.jpg
+³   ³           healthy_train.115.jpg
+³   ³           healthy_train.116.jpg
+³   ³           healthy_train.117.jpg
+³   ³           healthy_train.118.jpg
+³   ³           healthy_train.119.jpg
+³   ³           healthy_train.12.jpg
+³   ³           healthy_train.120tore
+³   ³           healthy_train.121.jpg
+³   ³           healthy_train.122.jpg
+³   ³           healthy_train.123.jpg
+³   ³           healthy_train.124.jpg
+³   ³           healthy_train.125.jpg
+³   ³           healthy_train.126.jpg
+³   ³           healthy_train.127.jpg
+³   ³           healthy_train.128.jpg
+³   ³           healthy_train.129.jpg
+³   ³           healthy_train.13.jpg
+³   ³           healthy_train.130.jpg
+³   ³           healthy_train.131.jpg
+³   ³           healthy_train.132.jpg
+³   ³           healthy_train.133.jpg
+³   ³           healthy_train.134.jpg
+³   ³           healthy_train.135.jpg
+³   ³           healthy_train.136.jpg
+³   ³           healthy_train.137.jpg
+³   ³           healthy_train.138.jpg
+³   ³           healthy_train.139.jpg
+³   ³           healthy_train.14.jpg
+³   ³           healthy_train.140.jpg
+³   ³           healthy_train.141.jpg
+³   ³           healthy_train.142.jpg
+³   ³           healthy_train.143.jpg
+³   ³           healthy_train.144.jpg
+³   ³           healthy_train.145.jpg
+³   ³           healthy_train.146.jpg
+³   ³           healthy_train.147.jpg
+³   ³           healthy_train.148.jpg
+³   ³           healthy_train.149.jpg
+³   ³           healthy_train.15.jpg
+³   ³           healthy_train.150.jpg
+³   ³           healthy_train.151.jpg
+³   ³           healthy_train.152.jpg
+³   ³           healthy_train.153.jpg
+³   ³           healthy_train.154.jpg
+³   ³           healthy_train.155.jpg
+³   ³           healthy_train.156.jpg
+³   ³           healthy_train.157.jpg
+³   ³           healthy_train.158.jpg
+³   ³           healthy_train.159.jpg
+³   ³           healthy_train.16.jpg
+³   ³           healthy_train.160.jpg
+³   ³           healthy_train.161.jpg
+³   ³           healthy_train.162.jpg
+³   ³           healthy_train.163.jpg
+³   ³           healthy_train.164.jpg
+³   ³           healthy_train.165.jpg
+³   ³           healthy_train.166.jpg
+³   ³           healthy_train.167.jpg
+³   ³           healthy_train.168.jpg
+³   ³           healthy_train.169.jpg
+³   ³           healthy_train.17.jpg
+³   ³           healthy_train.170.jpg
+³   ³           healthy_train.171.jpg
+³   ³           healthy_train.172.jpg
+³   ³           healthy_train.173.jpg
+³   ³           healthy_train.174.jpg
+³   ³           healthy_train.175.jpg
+³   ³           healthy_train.176.jpg
+³   ³           healthy_train.177.jpg
+³   ³           healthy_train.178.jpg
+³   ³           healthy_train.179.jpg
+³   ³           healthy_train.18.jpg
+³   ³           healthy_train.180.jpg
+³   ³           healthy_train.181.jpg
+³   ³           healthy_train.182.jpg
+³   ³           healthy_train.183.jpg
+³   ³           healthy_train.184.jpg
+³   ³           healthy_train.185.jpg
+³   ³           healthy_train.186.jpg
+³   ³           healthy_train.187.jpg
+³   ³           healthy_train.188.jpg
+³   ³           healthy_train.189.jpg
+³   ³           healthy_train.19.jpg
+³   ³           healthy_train.190.jpg
+³   ³           healthy_train.191.jpg
+³   ³           healthy_train.192.jpg
+³   ³           healthy_train.193.jpg
+³   ³           healthy_train.194.jpg
+³   ³           healthy_train.195.jpg
+³   ³           healthy_train.196.jpg
+³   ³           healthy_train.197.jpg
+³   ³           healthy_train.198.jpg
+³   ³           healthy_train.199.jpg
+³   ³           healthy_train.2.jpg
+³   ³           healthy_train.20.jpg
+³   ³           healthy_train.200.jpg
+³   ³           healthy_train.201.jpg
+³   ³           healthy_train.202.jpg
+³   ³           healthy_train.203.jpg
+³   ³           healthy_train.204.jpg
+³   ³           healthy_train.205.jpg
+³   ³           healthy_train.206.jpg
+³   ³           healthy_train.207.jpg
+³   ³           healthy_train.208.jpg
+³   ³           healthy_train.209.jpg
+³   ³           healthy_train.21.jpg
+³   ³           healthy_train.210.jpg
+³   ³           healthy_train.211.jpg
+³   ³           healthy_train.212.jpg
+³   ³           healthy_train.213.jpg
+³   ³           healthy_train.214.jpg
+³   ³           healthy_train.215.jpg
+³   ³           healthy_train.216.jpg
+³   ³           healthy_train.217.jpg
+³   ³           healthy_train.218.jpg
+³   ³           healthy_train.219.jpg
+³   ³           healthy_train.22.jpg
+³   ³           healthy_train.220.jpg
+³   ³           healthy_train.221.jpg
+³   ³           healthy_train.222.jpg
+³   ³           healthy_train.223.jpg
+³   ³           healthy_train.224.jpg
+³   ³           healthy_train.225.jpg
+³   ³           healthy_train.226.jpg
+³   ³           healthy_train.227.jpg
+³   ³           healthy_train.228.jpg
+³   ³           healthy_train.229.jpg
+³   ³           healthy_train.23.jpg
+³   ³           healthy_train.230.jpg
+³   ³           healthy_train.231.jpg
+³   ³           healthy_train.232.jpg
+³   ³           healthy_train.233.jpg
+³   ³           healthy_train.234.jpg
+³   ³           healthy_train.235.jpg
+³   ³           healthy_train.236.jpg
+³   ³           healthy_train.237.jpg
+³   ³           healthy_train.238.jpg
+³   ³           healthy_train.239.jpg
+³   ³           healthy_train.24.jpg
+³   ³           healthy_train.240.jpg
+³   ³           healthy_train.241.jpg
+³   ³           healthy_train.242.jpg
+³   ³           healthy_train.243.jpg
+³   ³           healthy_train.244.jpg
+³   ³           healthy_train.245.jpg
+³   ³           healthy_train.246.jpg
+³   ³           healthy_train.247.jpg
+³   ³           healthy_train.248.jpg
+³   ³           healthy_train.249.jpg
+³   ³           healthy_train.25.jpg
+³   ³           healthy_train.250.jpg
+³   ³           healthy_train.251.jpg
+³   ³           healthy_train.252.jpg
+³   ³           healthy_train.253.jpg
+³   ³           healthy_train.254.jpg
+³   ³           healthy_train.255.jpg
+³   ³           healthy_train.256.jpg
+³   ³           healthy_train.257.jpg
+³   ³           healthy_train.258.jpg
+³   ³           healthy_train.259.jpg
+³   ³           healthy_train.26.jpg
+³   ³           healthy_train.260.jpg
+³   ³           healthy_train.261.jpg
+³   ³           healthy_train.262.jpg
+³   ³           healthy_train.263.jpg
+³   ³           healthy_train.264.jpg
+³   ³           healthy_train.265.jpg
+³   ³           healthy_train.266.jpg
+³   ³           healthy_train.267.jpg
+³   ³           healthy_train.268.jpg
+³   ³           healthy_train.269.jpg
+³   ³           healthy_train.27.jpg
+³   ³           healthy_train.270.jpg
+³   ³           healthy_train.271.jpg
+³   ³           healthy_train.272.jpg
+³   ³           healthy_train.273.jpg
+³   ³           healthy_train.274.jpg
+³   ³           healthy_train.275.jpg
+³   ³           healthy_train.276.jpg
+³   ³           healthy_train.277.jpg
+³   ³           healthy_train.278.jpg
+³   ³           healthy_train.279.jpg
+³   ³           healthy_train.28.jpg
+³   ³           healthy_train.280.jpg
+³   ³           healthy_train.281.jpg
+³   ³           healthy_train.282.jpg
+³   ³           healthy_train.283.jpg
+³   ³           healthy_train.284.jpg
+³   ³           healthy_train.285.jpg
+³   ³           healthy_train.286.jpg
+³   ³           healthy_train.287.jpg
+³   ³           healthy_train.288.jpg
+³   ³           healthy_train.289.jpg
+³   ³           healthy_train.29.jpg
+³   ³           healthy_train.290.jpg
+³   ³           healthy_train.291.jpg
+³   ³           healthy_train.292.jpg
+³   ³           healthy_train.293.jpg
+³   ³           healthy_train.294.jpg
+³   ³           healthy_train.295.jpg
+³   ³           healthy_train.296.jpg
+³   ³           healthy_train.297.jpg
+³   ³           healthy_train.298.jpg
+³   ³           healthy_train.299.jpg
+³   ³           healthy_train.3.jpg
+³   ³           healthy_train.30.jpg
+³   ³           healthy_train.300.jpg
+³   ³           healthy_train.301.jpg
+³   ³           healthy_train.302.jpg
+³   ³           healthy_train.303.jpg
+³   ³           healthy_train.304.jpg
+³   ³           healthy_train.305.jpg
+³   ³           healthy_train.306.jpg
+³   ³           healthy_train.307.jpg
+³   ³           healthy_train.308.jpg
+³   ³           healthy_train.309.jpg
+³   ³           healthy_train.31.jpg
+³   ³           healthy_train.310.jpg
+³   ³           healthy_train.311.jpg
+³   ³           healthy_train.312.jpg
+³   ³           healthy_train.313.jpg
+³   ³           healthy_train.314.jpg
+³   ³           healthy_train.315.jpg
+³   ³           healthy_train.316.jpg
+³   ³           healthy_train.317.jpg
+³   ³           healthy_train.318.jpg
+³   ³           healthy_train.319.jpg
+³   ³           healthy_train.32.jpg
+³   ³           healthy_train.320.jpg
+³   ³           healthy_train.321.jpg
+³   ³           healthy_train.322.jpg
+³   ³           healthy_train.323.jpg
+³   ³           healthy_train.324.jpg
+³   ³           healthy_train.325.jpg
+³   ³           healthy_train.326.jpg
+³   ³           healthy_train.327.jpg
+³   ³           healthy_train.328.jpg
+³   ³           healthy_train.329.jpg
+³   ³           healthy_train.33.jpg
+³   ³           healthy_train.330.jpg
+³   ³           healthy_train.331.jpg
+³   ³           healthy_train.332.jpg
+³   ³           healthy_train.333.jpg
+³   ³           healthy_train.334.jpg
+³   ³           healthy_train.335.jpg
+³   ³           healthy_train.336.jpg
+³   ³           healthy_train.337.jpg
+³   ³           healthy_train.338.jpg
+³   ³           healthy_train.339.jpg
+³   ³           healthy_train.34.jpg
+³   ³           healthy_train.340.jpg
+³   ³           healthy_train.341.jpg
+³   ³           healthy_train.35.jpg
+³   ³           healthy_train.36.jpg
+³   ³           healthy_train.37.jpg
+³   ³           healthy_train.38.jpg
+³   ³           healthy_train.39.jpg
+³   ³           healthy_train.4.jpg
+³   ³           healthy_train.40.jpg
+³   ³           healthy_train.41.jpg
+³   ³           healthy_train.42.jpg
+³   ³           healthy_train.43.jpg
+³   ³           healthy_train.44.jpg
+³   ³           healthy_train.45.jpg
+³   ³           healthy_train.46.jpg
+³   ³           healthy_train.47.jpg
+³   ³           healthy_train.48.jpg
+³   ³           healthy_train.49.jpg
+³   ³           healthy_train.5.jpg
+³   ³           healthy_train.50.jpg
+³   ³           healthy_train.51.jpg
+³   ³           healthy_train.52.jpg
+³   ³           healthy_train.53.jpg
+³   ³           healthy_train.54.jpg
+³   ³           healthy_train.55.jpg
+³   ³           healthy_train.56.jpg
+³   ³           healthy_train.57.jpg
+³   ³           healthy_train.58.jpg
+³   ³           healthy_train.59.jpg
+³   ³           healthy_train.6.jpg
+³   ³           healthy_train.60.jpg
+³   ³           healthy_train.61.jpg
+³   ³           healthy_train.62.jpg
+³   ³           healthy_train.63.jpg
+³   ³           healthy_train.64.jpg
+³   ³           healthy_train.65.jpg
+³   ³           healthy_train.66.jpg
+³   ³           healthy_train.67.jpg
+³   ³           healthy_train.68.jpg
+³   ³           healthy_train.69.jpg
+³   ³           healthy_train.7.jpg
+³   ³           healthy_train.70.jpg
+³   ³           healthy_train.71.jpg
+³   ³           healthy_train.72.jpg
+³   ³           healthy_train.73.jpg
+³   ³           healthy_train.74.jpg
+³   ³           healthy_train.75.jpg
+³   ³           healthy_train.76.jpg
+³   ³           healthy_train.77.jpg
+³   ³           healthy_train.78.jpg
+³   ³           healthy_train.79.jpg
+³   ³           healthy_train.8.jpg
+³   ³           healthy_train.80.jpg
+³   ³           healthy_train.81.jpg
+³   ³           healthy_train.82.jpg
+³   ³           healthy_train.83.jpg
+³   ³           healthy_train.84.jpg
+³   ³           healthy_train.85.jpg
+³   ³           healthy_train.86.jpg
+³   ³           healthy_train.87.jpg
+³   ³           healthy_train.88.jpg
+³   ³           healthy_train.89.jpg
+³   ³           healthy_train.9.jpg
+³   ³           healthy_train.90.jpg
+³   ³           healthy_train.91.jpg
+³   ³           healthy_train.92.jpg
+³   ³           healthy_train.93.jpg
+³   ³           healthy_train.94.jpg
+³   ³           healthy_train.95.jpg
+³   ³           healthy_train.96.jpg
+³   ³           healthy_train.97.jpg
+³   ³           healthy_train.98.jpg
+³   ³           healthy_train.99.jpg
+³   ³           
+³   ÀÄÄÄvalid
+³       ÃÄÄÄ1
+³       ³       angular_leaf_spot_val.0.jpg
+³       ³       angular_leaf_spot_val.1.jpg
+³       ³       angular_leaf_spot_val.10.jpg
+³       ³       angular_leaf_spot_val.11.jpg
+³       ³       angular_leaf_spot_val.12.jpg
+³       ³       angular_leaf_spot_val.13.jpg
+³       ³       angular_leaf_spot_val.14.jpg
+³       ³       angular_leaf_spot_val.15.jpg
+³       ³       angular_leaf_spot_val.16.jpg
+³       ³       angular_leaf_spot_val.17.jpg
+³       ³       angular_leaf_spot_val.18.jpg
+³       ³       angular_leaf_spot_val.19.jpg
+³       ³       angular_leaf_spot_val.2.jpg
+³       ³       angular_leaf_spot_val.20.jpg
+³       ³       angular_leaf_spot_val.21.jpg
+³       ³       angular_leaf_spot_val.22.jpg
+³       ³       angular_leaf_spot_val.23.jpg
+³       ³       angular_leaf_spot_val.24.jpg
+³       ³       angular_leaf_spot_val.25.jpg
+³       ³       angular_leaf_spot_val.26.jpg
+³       ³       angular_leaf_spot_val.27.jpg
+³       ³       angular_leaf_spot_val.28.jpg
+³       ³       angular_leaf_spot_val.29.jpg
+³       ³       angular_leaf_spot_val.3.jpg
+³       ³       angular_leaf_spot_val.30.jpg
+³       ³       angular_leaf_spot_val.31.jpg
+³       ³       angular_leaf_spot_val.32.jpg
+³       ³       angular_leaf_spot_val.33.jpg
+³       ³       angular_leaf_spot_val.34.jpg
+³       ³       angular_leaf_spot_val.35.jpg
+³       ³       angular_leaf_spot_val.36.jpg
+³       ³       angular_leaf_spot_val.37.jpg
+³       ³       angular_leaf_spot_val.38.jpg
+³       ³       angular_leaf_spot_val.39.jpg
+³       ³       angular_leaf_spot_val.4.jpg
+³       ³       angular_leaf_spot_val.40.jpg
+³       ³       angular_leaf_spot_val.41.jpg
+³       ³       angular_leaf_spot_val.42.jpg
+³       ³       angular_leaf_spot_val.43.jpg
+³       ³       angular_leaf_spot_val.5.jpg
+³       ³       angular_leaf_spot_val.6.jpg
+³       ³       angular_leaf_spot_val.7.jpg
+³       ³       angular_leaf_spot_val.8.jpg
+³       ³       angular_leaf_spot_val.9.jpg
+³       ³       
+³       ÃÄÄÄ2
+³       ³       bean_rust_val.0.jpg
+³       ³       bean_rust_val.1.jpg
+³       ³       bean_rust_val.10.jpg
+³       ³       bean_rust_val.11.jpg
+³       ³       bean_rust_val.12.jpg
+³       ³       bean_rust_val.13.jpg
+³       ³       bean_rust_val.14.jpg
+³       ³       bean_rust_val.15.jpg
+³       ³       bean_rust_val.16.jpg
+³       ³       bean_rust_val.17.jpg
+³       ³       bean_rust_val.18.jpg
+³       ³       bean_rust_val.19.jpg
+³       ³       bean_rust_val.2.jpg
+³       ³       bean_rust_val.20.jpg
+³       ³       bean_rust_val.21.jpg
+³       ³       bean_rust_val.22.jpg
+³       ³       bean_rust_val.23.jpg
+³       ³       bean_rust_val.24.jpg
+³       ³       bean_rust_val.25.jpg
+³       ³       bean_rust_val.26.jpg
+³       ³       bean_rust_val.27.jpg
+³       ³       bean_rust_val.28.jpg
+³       ³       bean_rust_val.29.jpg
+³       ³       bean_rust_val.3.jpg
+³       ³       bean_rust_val.30.jpg
+³       ³       bean_rust_val.31.jpg
+³       ³       bean_rust_val.32.jpg
+³       ³       bean_rust_val.33.jpg
+³       ³       bean_rust_val.34.jpg
+³       ³       bean_rust_val.35.jpg
+³       ³       bean_rust_val.36.jpg
+³       ³       bean_rust_val.37.jpg
+³       ³       bean_rust_val.38.jpg
+³       ³       bean_rust_val.39.jpg
+³       ³       bean_rust_val.4.jpg
+³       ³       bean_rust_val.40.jpg
+³       ³       bean_rust_val.41.jpg
+³       ³       bean_rust_val.42.jpg
+³       ³       bean_rust_val.43.jpg
+³       ³       bean_rust_val.44.jpg
+³       ³       bean_rust_val.5.jpg
+³       ³       bean_rust_val.6.jpg
+³       ³       bean_rust_val.7.jpg
+³       ³       bean_rust_val.8.jpg
+³       ³       bean_rust_val.9.jpg
+³       ³       
+³       ÀÄÄÄ3
+³               healthy_val.0.jpg
+³               healthy_val.1.jpg
+³               healthy_val.10.jpg
+³               healthy_val.11.jpg
+³               healthy_val.12.jpg
+³               healthy_val.13.jpg
+³               healthy_val.14.jpg
+³               healthy_val.15.jpg
+³               healthy_val.16.jpg
+³               healthy_val.17.jpg
+³               healthy_val.18.jpg
+³               healthy_val.19.jpg
+³               healthy_val.2.jpg
+³               healthy_val.20.jpg
+³               healthy_val.21.jpg
+³               healthy_val.22.jpg
+³               healthy_val.23.jpg
+³               healthy_val.24.jpg
+³               healthy_val.25.jpg
+³               healthy_val.26.jpg
+³               healthy_val.27.jpg
+³               healthy_val.28.jpg
+³               healthy_val.29.jpg
+³               healthy_val.3.jpg
+³               healthy_val.30.jpg
+³               healthy_val.31.jpg
+³               healthy_val.32.jpg
+³               healthy_val.33.jpg
+³               healthy_val.34.jpg
+³               healthy_val.35.jpg
+³               healthy_val.36.jpg
+³               healthy_val.37.jpg
+³               healthy_val.38.jpg
+³               healthy_val.39.jpg
+³               healthy_val.4.jpg
+³               healthy_val.40.jpg
+³               healthy_val.41.jpg
+³               healthy_val.42.jpg
+³               healthy_val.43.jpg
+³               healthy_val.5.jpg
+³               healthy_val.6.jpg
+³               healthy_val.7.jpg
+³               healthy_val.8.jpg
+³               healthy_val.9.jpg
+³               
+ÃÄÄÄlogs
+³   ³   events.out.tfevents.1568290152.ICHIGO
+³   ³   events.out.tfevents.1568290500.ICHIGO
+³   ³   events.out.tfevents.1568383851.ICHIGO
+³   ³   events.out.tfevents.1568385209.ICHIGO
+³   ³   events.out.tfevents.1568725432.ICHIGO
+³   ³   events.out.tfevents.1568728770.ICHIGO
+³   ³   training.log
+³   ³   
+³   ÃÄÄÄtrain
+³   ³       events.out.tfevents.1661601849.WALNUT.11448.0.v2
+³   ³       events.out.tfevents.1661609273.WALNUT.13444.0.v2
+³   ³       events.out.tfevents.1661609359.WALNUT.21276.0.v2
+³   ³       events.out.tfevents.1661610436.WALNUT.16636.0.v2
+³   ³       events.out.tfevents.1661610903.WALNUT.728.0.v2
+³   ³       events.out.tfevents.1661610957.WALNUT.21400.0.v2
+³   ³       events.out.tfevents.1661611028.WALNUT.16252.0.v2
+³   ³       events.out.tfevents.1661617824.WALNUT.2416.0.v2
+³   ³       
+³   ÀÄÄÄvalidation
+³           events.out.tfevents.1661601929.WALNUT.11448.1.v2
+³           events.out.tfevents.1661609317.WALNUT.13444.1.v2
+³           events.out.tfevents.1661609402.WALNUT.21276.1.v2
+³           events.out.tfevents.1661610572.WALNUT.16636.1.v2
+³           events.out.tfevents.1661611273.WALNUT.16252.1.v2
+³           events.out.tfevents.1661617961.WALNUT.2416.1.v2
+³           
+ÀÄÄÄmodels
+        model.hdf5
+        
